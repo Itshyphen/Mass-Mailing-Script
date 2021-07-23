@@ -1,19 +1,27 @@
-Hi ${name},
+Dear ${name},
 
-Thank you for registering for "${eventname}".
+Warm Greeting!
 
-We are very excited to have you in our session. We hope you will enjoy the Session.
+Thank you for registering for "${eventname}" being co-organized by Girls in Tech Nepal and Delta. We are very excited to have you in our session. 
 
-Please submit any questions to shristi.shrestha@girlsintech.org
+This session is being facilitated by Dr. Keshab Sharma. He is a Geotechnical Engineer at BGC Engineering Inc., New Brunswick, Canada.
+
+Dr. Keshab Sharma completed BE in Civil Engineering from Pulchowk Campus, Institute of Engineering, Tribhuvan University, Nepal, and master’s degree in Civil Engineering from the University of Tokyo, Tokyo Japan as an ADB scholar. He holds a Ph.D. in Geotechnical Engineering from the University of Alberta, Canada. Dr. Sharma has authored dozens of papers published in national and international journals and presented more than ten papers in international conferences. He is also a well-known columnist in Nepal’s National Daily wherein he writes about socio-technical issues.
+
+The joining information for the webinar are as follows:
 
 Date Time: ${eventdate}
+Join Link: http://tiny.cc/ResearchPaperWriting
+Passcode: Research
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/s/94483457340?pwd=QlNvbWtnZFUzN05YUUQzVWRMRHdyUT09
-Passcode: 621754
 Note: This link should not be shared with others; it is unique to you.
+
+For any additional queries, please write back to me.
+
 
 Kind regards,
 Shristi Shrestha
-Event Manager
-Girls in Tech - Nepal
+Volunteer Event Manager, Nepal
+nepal.girlsintech.org
+
 
