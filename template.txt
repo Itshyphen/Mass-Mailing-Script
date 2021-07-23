@@ -1,0 +1,19 @@
+Hi ${name},
+
+Thank you for registering for "${eventname}".
+
+We are very excited to have you in our session. We hope you will enjoy the Session.
+
+Please submit any questions to shristi.shrestha@girlsintech.org
+
+Date Time: ${eventdate}
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/s/94483457340?pwd=QlNvbWtnZFUzN05YUUQzVWRMRHdyUT09
+Passcode: 621754
+Note: This link should not be shared with others; it is unique to you.
+
+Kind regards,
+Shristi Shrestha
+Event Manager
+Girls in Tech - Nepal
+
